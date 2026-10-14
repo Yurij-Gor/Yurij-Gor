@@ -16,8 +16,6 @@ My development workflow combines AI coding agents with Git branches, pull reques
 
 Earlier work includes Python QA automation, API and UI testing, data quality, CI/CD and security-focused testing.
 
-📍 Neuchâtel, Switzerland
-
 ## Public projects
 
 - [API Testing Test Project](https://github.com/Yurij-Gor/API_Testing_Test_Project)
